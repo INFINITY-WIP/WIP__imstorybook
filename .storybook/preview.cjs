@@ -1,5 +1,5 @@
 import "../src/styles/tailwind.css";
-import "../static/fonts/fontello/src/css/fontello.css";
+import "../static/fonts/im-icon/style.css";
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
